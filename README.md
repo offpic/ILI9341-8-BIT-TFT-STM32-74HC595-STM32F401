@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=wRX_b94taM4
 
 ![ILI9341 8 BIT TFT STM32 74HC595 STM32F401 ISMAIL](https://github.com/offpic/ILI9341-8-BIT-TFT-STM32-74HC595-STM32F401/assets/31142397/f1491523-3415-469f-81ad-ea16d3122eb4)
 
